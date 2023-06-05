@@ -63,6 +63,8 @@ header{
 }
 .header-links a{
 	margin-left: 2em;
+	text-transform: lowercase;
+	font-size: 1rem;
 }
 /*
 .title{
