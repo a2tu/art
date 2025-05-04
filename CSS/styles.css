@@ -44,7 +44,8 @@ header{
 	justify-content: space-between;
 }
 .title a{
-	font-family: 'California Dreamer Sans', sans-serif;
+	font-family: 'California Dreamer Sans', 'Sometype mono', sans-serif;
+	font-weight: 400;
 	color:#464F53;
 	font-size: 60px;
 }
